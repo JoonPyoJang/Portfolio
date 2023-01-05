@@ -62,4 +62,4 @@ __Frontend__
 
 Javascript / html / css
 
-프로젝트 상세 설명
+[프로젝트 상세 설명](https://github.com/JoonPyoJang/Uhwa_Backend)
