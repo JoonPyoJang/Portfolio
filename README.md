@@ -34,7 +34,7 @@ __Frontend__
 
 Javascript / html / css
 
-프로젝트 상세 설명
+[프로젝트 상세 설명](https://github.com/JoonPyoJang/Portfolio/blob/main/project_detail/stone_coffee/stone_coffee.md)
 
 <hr>
 
